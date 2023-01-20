@@ -1,0 +1,17 @@
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\bin\Debug\net6.0-windows\Check-SHA256-Of-A-File.exe
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\bin\Debug\net6.0-windows\Check-SHA256-Of-A-File.deps.json
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\bin\Debug\net6.0-windows\Check-SHA256-Of-A-File.runtimeconfig.json
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\bin\Debug\net6.0-windows\Check-SHA256-Of-A-File.dll
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\bin\Debug\net6.0-windows\Check-SHA256-Of-A-File.pdb
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.csproj.AssemblyReference.cache
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check_SHA256_Of_A_File.Form1.resources
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.csproj.GenerateResource.cache
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.AssemblyInfoInputs.cache
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.AssemblyInfo.cs
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.csproj.CoreCompileInputs.cache
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.dll
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\refint\Check-SHA256-Of-A-File.dll
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.pdb
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\Check-SHA256-Of-A-File.genruntimeconfig.cache
+D:\KodlamaProjeleri\c#\Check-SHA256-Of-A-File\obj\Debug\net6.0-windows\ref\Check-SHA256-Of-A-File.dll
